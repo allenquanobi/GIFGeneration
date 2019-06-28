@@ -1,0 +1,1672 @@
+{
+	"Name": "Uber-Text",
+	"Author": "Uber",
+	"Description": "",
+	"Size": {
+		"Dx": 5,
+		"Dy": 6
+	},
+	"AnchorPos": {
+		"X": 0,
+		"Y": 1
+	},
+	"TargetChar": "O",
+	"CharSet": [
+		{
+			"Character": "\u0000",
+			"Bitmap": [
+				"OOOOO-",
+				"O---O-",
+				"O---O-",
+				"O---O-",
+				"OOOOO-",
+				"------"
+			]
+		},
+		{
+			"Character": "\u0001",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0002",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0003",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0004",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0005",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0006",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0007",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0008",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\t",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\n",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u000b",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u000c",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\r",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u000e",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u000f",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0010",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0011",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0012",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0013",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0014",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0015",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0016",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0017",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0018",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0019",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u001a",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u001b",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u001c",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u001d",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u001e",
+			"Bitmap": [
+				"OOO-",
+				"O-O-",
+				"O-O-",
+				"O-O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u001f",
+			"Bitmap": [
+				"OOO-",
+				"OOO-",
+				"OOO-",
+				"OOO-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": " ",
+			"Bitmap": [
+				"------",
+				"------",
+				"------",
+				"------",
+				"------",
+				"------"
+			]
+		},
+		{
+			"Character": "!",
+			"Bitmap": [
+				"-O----",
+				"-O----",
+				"-O----",
+				"-O----",
+				"------",
+				"-O----"
+			]
+		},
+		{
+			"Character": "\"",
+			"Bitmap": [
+				"O-O---",
+				"O-O---",
+				"O-O---",
+				"------",
+				"------",
+				"------"
+			]
+		},
+		{
+			"Character": "#",
+			"Bitmap": [
+				"-O-O--",
+				"OOOOO",
+				"-O-O--",
+				"OOOOO-",
+				"-O-O--",
+				"------"
+			]
+		},
+		{
+			"Character": "$",
+			"Bitmap": [
+				"-OO-",
+				"OO--",
+				"-OO-",
+				"OO--",
+				"-O--",
+				"----"
+			]
+		},
+		{
+			"Character": "%",
+			"Bitmap": [
+				"O---",
+				"--O-",
+				"-O--",
+				"O---",
+				"--O-",
+				"----"
+			]
+		},
+		{
+			"Character": "\u0026",
+			"Bitmap": [
+				"OO--",
+				"OO--",
+				"OOO-",
+				"O-O-",
+				"-OO-",
+				"----"
+			]
+		},
+		{
+			"Character": "'",
+			"Bitmap": [
+				"-O--",
+				"-O--",
+				"----",
+				"----",
+				"----",
+				"----"
+			]
+		},
+		{
+			"Character": "(",
+			"Bitmap": [
+				"--O-",
+				"-O--",
+				"-O--",
+				"-O--",
+				"--O-",
+				"----"
+			]
+		},
+		{
+			"Character": ")",
+			"Bitmap": [
+				"O---",
+				"-O--",
+				"-O--",
+				"-O--",
+				"O---",
+				"----"
+			]
+		},
+		{
+			"Character": "*",
+			"Bitmap": [
+				"O-O-",
+				"-O--",
+				"O-O-",
+				"----",
+				"----",
+				"----"
+			]
+		},
+		{
+			"Character": "+",
+			"Bitmap": [
+				"----",
+				"-O--",
+				"OOO-",
+				"-O--",
+				"----",
+				"----"
+			]
+		},
+		{
+			"Character": ",",
+			"Bitmap": [
+				"----",
+				"----",
+				"----",
+				"-O--",
+				"O---",
+				"----"
+			]
+		},
+		{
+			"Character": "-",
+			"Bitmap": [
+				"----",
+				"----",
+				"OOO-",
+				"----",
+				"----",
+				"----"
+			]
+		},
+		{
+			"Character": ".",
+			"Bitmap": [
+				"----",
+				"----",
+				"----",
+				"----",
+				"-O--",
+				"----"
+			]
+		},
+		{
+			"Character": "/",
+			"Bitmap": [
+				"--O-",
+				"--O-",
+				"-O--",
+				"O---",
+				"O---",
+				"----"
+			]
+		},
+		{
+			"Character": "0",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "1",
+			"Bitmap": [
+				"-OO--",
+				"--O--",
+				"--O--",
+				"--O--",
+				"--O--",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "2",
+			"Bitmap": [
+				"OOOO-",
+				"---O-",
+				"OOOO-",
+				"O----",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "3",
+			"Bitmap": [
+				"OOOO-",
+				"---O-",
+				"-OOO-",
+				"---O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "4",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"OOOO-",
+				"---O-",
+				"---O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "5",
+			"Bitmap": [
+				"OOOO-",
+				"O----",
+				"OOOO-",
+				"---O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "6",
+			"Bitmap": [
+				"OOOO-",
+				"O--",
+				"OOOO-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "7",
+			"Bitmap": [
+				"OOOO-",
+				"---O-",
+				"--O--",
+				"-O---",
+				"-O---",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "8",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"OOOO-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "9",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"OOOO-",
+				"---O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": ":",
+			"Bitmap": [
+				"----",
+				"-O--",
+				"----",
+				"-O--",
+				"----",
+				"----"
+			]
+		},
+		{
+			"Character": ";",
+			"Bitmap": [
+				"----",
+				"-O--",
+				"----",
+				"-O--",
+				"O---",
+				"----"
+			]
+		},
+		{
+			"Character": "\u003c",
+			"Bitmap": [
+				"--O-",
+				"-O--",
+				"O---",
+				"-O--",
+				"--O-",
+				"----"
+			]
+		},
+		{
+			"Character": "=",
+			"Bitmap": [
+				"----",
+				"OOO-",
+				"----",
+				"OOO-",
+				"----",
+				"----"
+			]
+		},
+		{
+			"Character": "\u003e",
+			"Bitmap": [
+				"O---",
+				"-O--",
+				"--O-",
+				"-O--",
+				"O---",
+				"----"
+			]
+		},
+		{
+			"Character": "?",
+			"Bitmap": [
+				"OOO-",
+				"--O-",
+				"-O--",
+				"----",
+				"-O--",
+				"----"
+			]
+		},
+		{
+			"Character": "@",
+			"Bitmap": [
+				"-O--",
+				"O-O-",
+				"OOO-",
+				"O---",
+				"-OO-",
+				"----"
+			]
+		},
+		{
+			"Character": "A",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "B",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"OOO--",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "C",
+			"Bitmap": [
+				"OOOO-",
+				"O----",
+				"O----",
+				"O----",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "D",
+			"Bitmap": [
+				"OOO--",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"OOO--",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "E",
+			"Bitmap": [
+				"OOOO-",
+				"O----",
+				"OOO--",
+				"O----",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "F",
+			"Bitmap": [
+				"OOOO-",
+				"O----",
+				"OOO--",
+				"O----",
+				"O----",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "G",
+			"Bitmap": [
+				"OOOO-",
+				"O----",
+				"O-OO-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "H",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "I",
+			"Bitmap": [
+				"O-",
+				"O-",
+				"O-",
+				"O-",
+				"O-",
+				"--"
+			],
+			"Size": {
+				"Dx": 2,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "J",
+			"Bitmap": [
+				"--OO-",
+				"---O-",
+				"---O-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "K",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"OOO--",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "L",
+			"Bitmap": [
+				"O----",
+				"O----",
+				"O----",
+				"O----",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "M",
+			"Bitmap": [
+				"OOOOO-",
+				"O-O-O-",
+				"O-O-O-",
+				"O---O-",
+				"O---O-",
+				"------"
+			],
+			"Size": {
+				"Dx": 6,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "N",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "O",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "P",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"OOOO-",
+				"O----",
+				"O----",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "Q",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"O-O--",
+				"OO-O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "R",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"OOO--",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "S",
+			"Bitmap": [
+				"-OOO",
+				"O---",
+				"OOOO",
+				"---O",
+				"OOO-",
+				"----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "T",
+			"Bitmap": [
+				"OOO-",
+				"-O--",
+				"-O--",
+				"-O--",
+				"-O--",
+				"----"
+			],
+			"Size": {
+				"Dx": 4,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "U",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "V",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"O-O--",
+				"-O---",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "W",
+			"Bitmap": [
+				"O---O-",
+				"O---O-",
+				"O-O-O-",
+				"O-O-O-",
+				"OOOOO-",
+				"------"
+			],
+			"Size": {
+				"Dx": 6,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "X",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"-OO--",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "Y",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"OOOO-",
+				"---O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "Z",
+			"Bitmap": [
+				"OOOO-",
+				"---O-",
+				"-OO--",
+				"O----",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+    },
+    {
+			"Character": "a",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "b",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"OOO--",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "c",
+			"Bitmap": [
+				"OOOO-",
+				"O----",
+				"O----",
+				"O----",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "d",
+			"Bitmap": [
+				"OOO--",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"OOO--",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "e",
+			"Bitmap": [
+				"OOOO-",
+				"O----",
+				"OOO--",
+				"O----",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "f",
+			"Bitmap": [
+				"OOOO-",
+				"O----",
+				"OOO--",
+				"O----",
+				"O----",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "g",
+			"Bitmap": [
+				"OOOO-",
+				"O----",
+				"O-OO-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "h",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "i",
+			"Bitmap": [
+				"O-",
+				"O-",
+				"O-",
+				"O-",
+				"O-",
+				"--"
+			],
+			"Size": {
+				"Dx": 2,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "j",
+			"Bitmap": [
+				"--OO-",
+				"---O-",
+				"---O-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "k",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"OOO--",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "l",
+			"Bitmap": [
+				"O----",
+				"O----",
+				"O----",
+				"O----",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "m",
+			"Bitmap": [
+				"OOOOO-",
+				"O-O-O-",
+				"O-O-O-",
+				"O---O-",
+				"O---O-",
+				"------"
+			],
+			"Size": {
+				"Dx": 6,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "n",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "o",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "p",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"OOOO-",
+				"O----",
+				"O----",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "q",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"O--O-",
+				"O-O--",
+				"OO-O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "r",
+			"Bitmap": [
+				"OOOO-",
+				"O--O-",
+				"OOO--",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "s",
+			"Bitmap": [
+				"-OOO",
+				"O---",
+				"OOOO",
+				"---O",
+				"OOO-",
+				"----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "t",
+			"Bitmap": [
+				"OOO-",
+				"-O--",
+				"-O--",
+				"-O--",
+				"-O--",
+				"----"
+			],
+			"Size": {
+				"Dx": 4,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "u",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "v",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"O--O-",
+				"O-O--",
+				"-O---",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "w",
+			"Bitmap": [
+				"O---O-",
+				"O---O-",
+				"O-O-O-",
+				"O-O-O-",
+				"OOOOO-",
+				"------"
+			],
+			"Size": {
+				"Dx": 6,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "x",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"-OO--",
+				"O--O-",
+				"O--O-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "y",
+			"Bitmap": [
+				"O--O-",
+				"O--O-",
+				"OOOO-",
+				"---O-",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+		},
+		{
+			"Character": "z",
+			"Bitmap": [
+				"OOOO-",
+				"---O-",
+				"-OO--",
+				"O----",
+				"OOOO-",
+				"-----"
+			],
+			"Size": {
+				"Dx": 5,
+				"Dy": 6
+			}
+    },
+		{
+			"Character": "[",
+			"Bitmap": [
+				"OOO-",
+				"O---",
+				"O---",
+				"O---",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "\\",
+			"Bitmap": [
+				"----",
+				"O---",
+				"-O--",
+				"--O-",
+				"----",
+				"----"
+			]
+		},
+		{
+			"Character": "]",
+			"Bitmap": [
+				"OOO-",
+				"--O-",
+				"--O-",
+				"--O-",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "^",
+			"Bitmap": [
+				"-O--",
+				"O-O-",
+				"----",
+				"----",
+				"----",
+				"----"
+			]
+		},
+		{
+			"Character": "_",
+			"Bitmap": [
+				"----",
+				"----",
+				"----",
+				"----",
+				"OOO-",
+				"----"
+			]
+		},
+		{
+			"Character": "`",
+			"Bitmap": [
+				"O---",
+				"-O--",
+				"----",
+				"----",
+				"----",
+				"----"
+			]
+		},
+		{
+			"Character": "{",
+			"Bitmap": [
+				"-OO-",
+				"-O--",
+				"O---",
+				"-O--",
+				"-OO-",
+				"----"
+			]
+		},
+		{
+			"Character": "|",
+			"Bitmap": [
+				"-O--",
+				"-O--",
+				"----",
+				"-O--",
+				"-O--",
+				"----"
+			]
+		},
+		{
+			"Character": "}",
+			"Bitmap": [
+				"OO--",
+				"-O--",
+				"--O-",
+				"-O--",
+				"OO--",
+				"----"
+			]
+		},
+		{
+			"Character": "~",
+			"Bitmap": [
+				"-OO-",
+				"OO--",
+				"----",
+				"----",
+				"----",
+				"----"
+			]
+		},
+		{
+			"Character": "",
+			"Bitmap": [
+				"OOO-",
+				"OOO-",
+				"OOO-",
+				"OOO-",
+				"OOO-",
+				"----"
+			]
+		}
+	]
+}
